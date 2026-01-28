@@ -24,7 +24,7 @@ Atualmente focado em aprender fundamentos de HTML, CSS e JavaScript.
   </div> 
     <br> 
 
-  ### Minhas redes sociais: 
+  ## 👥 Minhas redes sociais: 
   <div> 
     <a href="https://www.instagram.com/cailloufco/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
