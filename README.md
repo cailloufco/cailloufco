@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Caio
 
 💻 Estudante de Desenvolvimento Front-End  
-📚 Atualmente estudando **HTML, CSS e JavaScript**  
+📚 Atualmente estudando **HTML, CSS , JavaScript e Python**  
 🚀 Em busca da minha **primeira oportunidade como estagiário ou dev júnior**  
 🎯 Foco em construir projetos práticos e evoluir todos os dias  
 
@@ -24,6 +24,8 @@ cada vez melhores ao longo do tempo.
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
 
 ---
