@@ -1,9 +1,7 @@
 ## 👋 Olá! Eu sou o Caio
 
 💻 Estudante de Desenvolvimento Front-End  
-📚 Atualmente estudando **HTML, CSS , JavaScript e Python**  
-🚀 Em busca da minha **primeira oportunidade como estagiário ou dev júnior**  
-🎯 Foco em construir projetos práticos e evoluir todos os dias  
+📚 Atualmente estudando **HTML, CSS , JavaScript e Python** 
 
 ---
 
