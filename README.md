@@ -37,7 +37,7 @@ que apoiem a tomada de decisões.
 
 ### 📚 Atualmente estudando
 
-- Consultas avançadas em **SQL**
+- Consultas basicas em **SQL**
 - Automação e análise de dados com **Python**
 - Construção de dashboards no **Power BI**
 - Boas práticas de versionamento com **Git e GitHub**
