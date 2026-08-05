@@ -1,41 +1,39 @@
-## 👋 Olá! Eu sou o Caio
+# Olá! Eu sou o Caio
 
-💻 Estudante de Desenvolvimento Front-End  
-📚 Atualmente estudando **HTML, CSS , JavaScript e Python** 
+**Estudante de Análise de Dados**
 
----
+Estou construindo minha base na área de dados por meio de estudos e projetos práticos. Meu objetivo é desenvolver as habilidades necessárias para transformar dados em informações que apoiem a tomada de decisões.
 
-### 🧠 Sobre mim
-Sou estudante de front-end, atualmente focado em aprender bem os fundamentos da web.
-Meu objetivo é evoluir de forma consistente, praticando bastante e construindo projetos
-cada vez melhores ao longo do tempo.
+## Atualmente estudando
 
-🚧 Perfil em constante construção.
+* Python
+* SQL
+* Power BI
+* Microsoft Excel
+* Git e GitHub
 
----
+## Tecnologias e ferramentas
 
-### 🛠️ Tecnologias que estou estudando
+* Python
+* JavaScript
+* HTML e CSS
+* SQL
+* Power BI
+* Excel
+* Git
+* GitHub
 
-<img alt="HTML" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="CSS" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="JavaScript" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img alt="Python" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+## O que você encontrará neste perfil
 
----
+Os repositórios deste GitHub acompanham minha jornada de aprendizado e incluem:
 
-### 🌐 Onde me encontrar
-<div>
-  <a href="https://www.linkedin.com/in/francisco-caio-2413b03a4/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/cailloufco/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:fcocaioduarte@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+* Estudos e exercícios práticos
+* Dashboards desenvolvidos no Power BI
+* Consultas e desafios em SQL
+* Projetos de análise de dados com Python
+* Projetos voltados ao desenvolvimento das habilidades de um Analista de Dados
+
+## Evolução
+
+Este perfil será atualizado continuamente conforme avanço nos estudos e desenvolvo novos projetos, sempre com o objetivo de aprimorar minhas habilidades e construir um portfólio cada vez mais sólido.
+
